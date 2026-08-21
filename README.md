@@ -1,1 +1,1 @@
-# jj_whetherapp
+# jj_wheatherapp
